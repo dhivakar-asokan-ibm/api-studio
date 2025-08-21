@@ -63,7 +63,6 @@ jobs:
         uses: grafana/k6-action@v0.2.0
         with:
           filename: "./Project Hydra/tests/performance/Loadtest.js"
-          flags: --out json=results.json
 
    Deploy:
     name: Deploy API Studio project
