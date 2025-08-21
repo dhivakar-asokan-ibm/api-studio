@@ -1,4 +1,4 @@
-  kind: Transport
+kind: Transport
 apiVersion: api.webmethods.io/beta
 metadata:
   name: Hydratransport
