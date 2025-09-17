@@ -1,10 +1,4 @@
 projects:
-  Aadhiran:
-    description: Project for nested spec file
-    tags:
-      - dev
-      - demo
-    lastUpdated: 1744170634475
   API-Testing:
     description: ''
     tags: []
@@ -25,3 +19,8 @@ projects:
       - security
       - access
     lastUpdated: 1758153132209
+  CRMService:
+    description: Collection of resources for the CRM portfolio
+    tags:
+      - crm
+    lastUpdated: 1758153189569
