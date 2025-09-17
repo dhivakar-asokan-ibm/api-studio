@@ -10,9 +10,10 @@ projects:
       - library
     lastUpdated: 1743764712538
   Project Hydra:
-    description: ''
-    tags: []
-    lastUpdated: 1744131969163
+    description: Resources of the disaster management and recovery portfolio
+    tags:
+      - recovery
+    lastUpdated: 1758153298027
   AccessManagement:
     description: Project containing APIs of the security portfolio
     tags:
