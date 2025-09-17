@@ -6,9 +6,9 @@ projects:
   Assertion Library:
     description: A common org level assertion library which can be reused across API
     tags:
-      - assertions
       - library
-    lastUpdated: 1743764712538
+      - assertion
+    lastUpdated: 1758153331221
   Project Hydra:
     description: Resources of the disaster management and recovery portfolio
     tags:
