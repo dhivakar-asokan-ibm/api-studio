@@ -1,27 +1,25 @@
 projects:
-  API-Testing:
-    description: ''
-    tags: []
-    lastUpdated: 1743008110837
-  Assertion Library:
-    description: A common org level assertion library which can be reused across projects
+  wM_NoAuth_Petstore:
+    description: >-
+      A webMethods project containing a unauthenticated petstore API with an
+      inovke and a logging policy.
     tags:
-      - library
-      - assertion
-    lastUpdated: 1758153366791
-  Project Hydra:
-    description: Resources of the disaster management and recovery portfolio
+      - wM
+      - no-auth
+    lastUpdated: 1762582641058
+  wM_APIKey_Petstore:
+    description: >-
+      A webMethods project containing a APIKey protected petstore API with an
+      invoke and a logging policy.
     tags:
-      - recovery
-    lastUpdated: 1758153298027
-  AccessManagement:
-    description: Project containing APIs of the security portfolio
+      - wM
+      - apikey
+    lastUpdated: 1762589947826
+  wM_Product_Petstore:
+    description: >-
+      A webMethods project containing a Product, Plan and a petstore API with an
+      invoke and a logging policy.
     tags:
-      - security
-      - access
-    lastUpdated: 1758153132209
-  CRMService:
-    description: Collection of resources for the CRM portfolio
-    tags:
-      - crm
-    lastUpdated: 1758153189569
+      - wM
+      - product
+    lastUpdated: 1762594299756
