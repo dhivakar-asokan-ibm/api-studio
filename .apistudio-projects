@@ -7,6 +7,7 @@ projects:
       - wM
       - no-auth
     lastUpdated: 1762582641058
+    id: yjb1ZQ21
   wM_APIKey_Petstore:
     description: >-
       A webMethods project containing a APIKey protected petstore API with an
@@ -15,6 +16,7 @@ projects:
       - wM
       - apikey
     lastUpdated: 1762589947826
+    id: Jvh8Bii4
   wM_Product_Petstore:
     description: >-
       A webMethods project containing a Product, Plan and a petstore API with an
@@ -23,3 +25,4 @@ projects:
       - wM
       - product
     lastUpdated: 1762594299756
+    id: wiL7oBTD
